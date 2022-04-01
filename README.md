@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🏴‍☠️ Yarrr, there be rando repos abound: [bitobrian.github.io](https://bitobrian.github.io/bitobrian) 🏴‍☠️
 
 <!--
 **bitobrian/bitobrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
